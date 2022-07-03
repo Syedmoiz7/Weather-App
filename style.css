@@ -1,0 +1,32 @@
+body {
+    /* background-color: rgb(243, 243, 243); */
+    background-image: url(./Images/rain-and-clouds-full-hd-weather-icon-sample.gif);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#center{
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    /* background-color: aqua; */
+    margin-top: 100px;
+}
+#h1{
+    background-color: black;
+    color: white;
+    padding-left: 25px;
+    width: 100%;
+    /* height: 80px; */
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    /* margin-top: 0; */
+}
+input{
+    width: 300px;
+    height: 40px;
+    border-radius: 50px;
+    padding-left: 20px;
+}
+#weatherReport {
+    text-align: center;
+}
